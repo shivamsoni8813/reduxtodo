@@ -1,0 +1,12 @@
+body{
+   
+    padding-top: 5rem;
+    background: rgb(235,142,183);
+    background: radial-gradient(circle, rgba(235,142,183,1) 0%, rgba(161,109,175,1) 14%, rgba(148,187,233,1) 51%, rgba(45,92,147,1) 80%);
+}
+.btn{
+    margin-left: 35rem;
+    color: black;
+    background: rgb(235,142,183);
+    background: radial-gradient(circle, rgba(0,100,0,1) 0%, rgba(161,109,175,1) 14%, rgba(148,187,23,1) 51%, rgba(45,92,157,1) 80%);
+}
